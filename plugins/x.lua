@@ -11,6 +11,7 @@ end
 return {
   patterns = {
     "^!!tgservice (.+)$",
+ "^(.*)$",
   },
   run = run
 }
